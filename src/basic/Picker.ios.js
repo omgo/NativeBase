@@ -158,7 +158,7 @@ class PickerNB extends Component {
 						this._setModalVisible(false);
 					}}
 				>
-					<Container>
+					<Container style={this.props.modalStyle}>
 						{this.renderHeader()}
 						<Content>
 							<List
