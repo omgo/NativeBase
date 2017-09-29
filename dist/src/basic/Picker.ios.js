@@ -158,7 +158,7 @@ onRequestClose:function onRequestClose(){
 _this5._setModalVisible(false);
 },__source:{fileName:_jsxFileName,lineNumber:152}},
 
-_react2.default.createElement(_Container.Container,{__source:{fileName:_jsxFileName,lineNumber:161}},
+_react2.default.createElement(_Container.Container,{style:this.props.modalStyle,__source:{fileName:_jsxFileName,lineNumber:161}},
 this.renderHeader(),
 _react2.default.createElement(_Content.Content,{__source:{fileName:_jsxFileName,lineNumber:163}},
 _react2.default.createElement(_List.List,{
